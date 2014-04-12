@@ -1,5 +1,5 @@
 #################################################################
-## 08_NBcountData.R                                            ##
+## 1.3_NBcountData.R                                           ##
 ## Exercise in reading in data, returning basic information    ##
 ## and exporting objects to spreesheets as CSV files           ##
 ##                                                             ##
@@ -10,7 +10,7 @@
 ### START ###
 ## Read in tab delimitted text file of results
 ## Remove index column
-rawData <- read.delim("08_NBcountData.txt")
+rawData <- read.delim("1.3_NBcountData.txt")
 rawData[1:10,]
 rawData <- rawData[,-1] # Drop the patient index column
 

@@ -1,8 +1,7 @@
 #################################################################
-## 05_patients.R                                               ##
+## 1.2_patients.R                                              ##
 ## Exercise in defining objects and indexing a dataframe       ##
 ##                                                             ##
-## Ian Roberts.  ir210@cam.ac.uk                               ## 
 #################################################################
 ##
 ##
